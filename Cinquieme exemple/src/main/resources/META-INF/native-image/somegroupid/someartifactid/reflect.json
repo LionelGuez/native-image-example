@@ -1,0 +1,10 @@
+[
+  {
+    "name":"somepackage.OtherClass",
+    "allPublicConstructors": true,
+    "methods": [{
+      "name": "someMethod",
+      "parameterTypes": []
+    }]
+  }
+]
