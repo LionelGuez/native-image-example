@@ -1,0 +1,1 @@
+$GRAALVM_HOME/bin/native-image -H:Class=somepackage.Main  -cp target/native-image.example-1.0-SNAPSHOT.jar  -H:Name=Application -H:ReflectionConfigurationFiles=./reflect-config.json

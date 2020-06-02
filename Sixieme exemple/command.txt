@@ -1,0 +1,2 @@
+$GRAALVM_HOME/bin/native-image  -cp target/native-image.example-1.0-SNAPSHOT.jar  -H:Class=somepackage.Main  -H:Name=Application 
+ 
